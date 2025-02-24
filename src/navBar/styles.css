@@ -92,6 +92,7 @@
 .children-button{
     background-size: 30px;
     background-color: blue;
+    border: none;
     width: 120px;
     height: 44px;
     color: white;
