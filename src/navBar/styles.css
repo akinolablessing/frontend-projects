@@ -32,6 +32,7 @@
 .getStarted{
    background-size: 30px;
   background-color: blue;
+    border: none;
     width: 120px;
     height: 44px;
     color: white;
@@ -145,4 +146,39 @@
     border: none;
     width: 120px;
     height: 44px;
+}
+.rectangler{
+  background-color: blue;
+}
+.group11{
+    display: flex;
+    flex-direction: column;
+
+}
+.getInTouch{
+    /*margin-left: 700px;*/
+}
+.getButton{
+    width: 120px;
+    height: 44px;
+    border: none;
+    margin-left: 700px;
+}
+.frame{
+    border: blue;
+    background-color: #efefef;
+    padding: inherit;
+    /*background-color: white;*/
+    /*border: blue;*/
+}
+.page{
+    background-color: antiquewhite;
+}
+.page{
+    display: flex;
+}
+.pageTwo{
+    display: flex;
+    flex-direction: row;
+    margin-left: 600px;
 }
